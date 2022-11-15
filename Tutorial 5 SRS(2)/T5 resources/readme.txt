@@ -1,0 +1,1 @@
+"My Application.zip" contains the completed Android Studio project for Tutorial 5.
